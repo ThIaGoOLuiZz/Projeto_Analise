@@ -28,18 +28,30 @@ Este projeto tem como objetivo apresentar um sistema web simples, desenvolvido p
 ## 📂 Estrutura do Projeto
 
 📁 projeto-cadastro-usuarios/
-├── index.html               # Página principal de cadastro
-├── contato.html             # Formulário de contato
-├── sobre.html               # Página "Sobre o projeto"
+
+├── index.html
+
+├── contato.html
+
+├── sobre.html
+
 │
+
 ├── 📁 css/
-│   └── style.css            # Estilos globais do projeto
+
+│   └── style.css
+
 │
+
 ├── 📁 js/
-│   ├── main.js              # Lógica de cadastro e listagem de usuários
-│   └── utils.js             # Lógica do formulário de contato (simulação de envio)
+
+│   ├── main.js
+
+│   └── utils.js
+
 │
-└── README.md                # Documentação explicando o projeto
+
+└── README.md
 
 ---
 
